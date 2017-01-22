@@ -3,7 +3,7 @@ email: d@damian.co
 description: > # this means to ignore newlines until "baseurl:"
   "Nothing will work unless you do." —Dr. Maya Angelou
 baseurl: "/"
-url: "https://damian.co"
+url: ""
 twitter_username: @damianhakert
 github_username:  @damianhakert
 
