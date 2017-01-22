@@ -1,9 +1,9 @@
 title: Damian.co
 email: d@damian.co
-description: > # this means to ignore newlines until "baseurl:"
-  "Nothing will work unless you do." —Dr. Maya Angelou
+description: > 
+  Nothing will work unless you do. —Dr. Maya Angelou
 baseurl: "/"
-url: ""
+url: "https://damian.co"
 twitter_username: @damianhakert
 github_username:  @damianhakert
 
