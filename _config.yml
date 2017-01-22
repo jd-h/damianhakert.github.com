@@ -4,8 +4,8 @@ description: >
   Nothing will work unless you do. —Dr. Maya Angelou
 baseurl: "/"
 url: "https://damian.co"
-twitter_username: @damianhakert
-github_username:  @damianhakert
+twitter_username: damianhakert
+github_username:  damianhakert
 
 # Build settings
 markdown: kramdown
